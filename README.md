@@ -12,4 +12,5 @@ Our final project for AAS 1100 is to find and explain Asian communities in Ithac
 2. Run `python3 collection/scraper.py` to collect data. View output in `output/people.csv`.
 3. Run the Jupyter Notebook in `cleaning` to generate place ids. View output in `output/place_ids.csv`.
 4. Run `python3 -m http.server --directory visualization` to run the map viz.
+
 Note: You'll need to login into your Cornell account for 2. You'll also need a GMaps Key for 3 (which you can request from me). You should be able to view 4 from Cornell's WiFi networks. If you can't let me know your IP address to add it to the allowlist.
