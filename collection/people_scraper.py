@@ -1,4 +1,3 @@
-from typing import final
 from person_scraper import scrape_person
 
 def scrape_people(driver):

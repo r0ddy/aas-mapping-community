@@ -1,4 +1,3 @@
-
 def fill_out_textbox(driver, xpath, value):
     textbox = driver.find_element_by_xpath(xpath)
     if textbox is not None:
