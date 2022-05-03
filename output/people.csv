@@ -1,4 +1,4 @@
-ID,Name:,Birth Year:,Gender:,Race:,Age in 1930:,Birthplace:,Marital Status:,Relation to Head of House:,Home in 1930:,Map of Home:,Street Address:,House Number:,Dwelling Number:,Family Number:,Home Owned or Rented:,Home Value:,Radio Set:,Lives on Farm:,Attended School:,Able to Read and Write:,Father's Birthplace:,Mother's Birthplace:,Occupation:,Industry:,Class of Worker:,Employment:,Language Spoken:,Naturalization:,Able to Speak English:,Ward of City:,Immigration Year:,Homemaker?:,Age at First Marriage:,Age:,Estimated Birth Year:,Home in 1940:,Map of Home in 1940:,Street:,Inferred Residence in 1935:,Residence in 1935:,Sheet Number:,Attended School or College:,Highest Grade Completed:,Hours Worked Week Prior to Census:,Respondent:,Farm:,Resident on farm in 1935:,Citizenship:,Number of Household in Order of Visitation:,House Owned or Rented:,Value of Home or Monthly Rental if Rented:,Weeks Worked in 1939:,Income:,Income Other Sources:,Native Language:,Veteran:,Social Security Number:,Usual Occupation:,Usual Class of Worker:,Block:,Institution:,Birth Date:,Home in 1880:,Spouse's Name:
+,Name:,Birth Year:,Gender:,Race:,Age in 1930:,Birthplace:,Marital Status:,Relation to Head of House:,Home in 1930:,Map of Home:,Street Address:,House Number:,Dwelling Number:,Family Number:,Home Owned or Rented:,Home Value:,Radio Set:,Lives on Farm:,Attended School:,Able to Read and Write:,Father's Birthplace:,Mother's Birthplace:,Occupation:,Industry:,Class of Worker:,Employment:,Language Spoken:,Naturalization:,Able to Speak English:,Ward of City:,Immigration Year:,Homemaker?:,Age at First Marriage:,Age:,Estimated Birth Year:,Home in 1940:,Map of Home in 1940:,Street:,Inferred Residence in 1935:,Residence in 1935:,Sheet Number:,Attended School or College:,Highest Grade Completed:,Hours Worked Week Prior to Census:,Respondent:,Farm:,Resident on farm in 1935:,Citizenship:,Number of Household in Order of Visitation:,House Owned or Rented:,Value of Home or Monthly Rental if Rented:,Weeks Worked in 1939:,Income:,Income Other Sources:,Native Language:,Veteran:,Social Security Number:,Usual Occupation:,Usual Class of Worker:,Block:,Institution:,Birth Date:,Home in 1880:,Spouse's Name:
 0,Tom Soo,abt 1886,Male,Chinese,44,California,Single,Head,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",[East State Street],321,149,181,Rented,32,No,No,No,Yes,United States,United States,Laundryman,Laundry,Employer,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 1,Ping Ying Kwong,abt 1911,Male,Chinese,19,China,Single,Servant,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",[East State Street],321,149,181,,,,,No,Yes,California,China,Laundry Worker,Laundry,Wage or salary worker,Yes,Chinese,Alien,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2,Sin M Lee,abt 1910,Female,Chinese,20,China,Single,Lodger,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",Eddy Street,119,288,395,,,,,Yes,Yes,China,China,,,,,Chinese,Alien,Yes,Fourth,1928,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -31,9 +31,7 @@ ID,Name:,Birth Year:,Gender:,Race:,Age in 1930:,Birthplace:,Marital Status:,Rela
 20,Tom Soo,abt 1886,Male,Chinese,44,California,Single,Head,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",[East State Street],321,149,181,Rented,32,No,No,No,Yes,United States,United States,Laundryman,Laundry,Employer,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 21,Ping Ying Kwong,abt 1911,Male,Chinese,19,China,Single,Servant,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",[East State Street],321,149,181,,,,,No,Yes,California,China,Laundry Worker,Laundry,Wage or salary worker,Yes,Chinese,Alien,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 22,Sin M Lee,abt 1910,Female,Chinese,20,China,Single,Lodger,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",Eddy Street,119,288,395,,,,,Yes,Yes,China,China,,,,,Chinese,Alien,Yes,Fourth,1928,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-23,Ezra Lai,"abt 1930
-[abt 1930]",Male,Chinese,"0
-[2/12]",New York,Single,Son,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",Eddy Street,119,288,395,,,,,No,,China,China,,,,,,,,Fourth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 24,Sung S Y Lai,abt 1908,Female,Chinese,22,China,Married,Wife,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",Eddy Street,119,288,395,,,,,No,Yes,China,China,,,,,Chinese,Alien,Yes,Fourth,1928,Yes,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 25,Min Yin Lai,abt 1900,Male,Chinese,30,China,Married,Head,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",Eddy Street,119,288,395,Rented,58,Yes,No,Yes,Yes,China,China,,,,,Chinese,Alien,Yes,Fourth,1928,,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 26,Freda Lai,"abt 1929
@@ -77,8 +75,7 @@ ID,Name:,Birth Year:,Gender:,Race:,Age in 1930:,Birthplace:,Marital Status:,Rela
 [Hing Ying]",,Male,Chinese,,China,Married,Friend,,,,324,,,,,,,,,,,Laborer,Laundry,Wage or salary worker in private work,,,,,,,,,29,abt 1911,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",E Streetate Street,"Rochester, New York","Rochester, New York",3B,No,"Elementary school, 8th grade",48,,,No,,,,,52,820,No,,,,,,,,,,
 53,Fung Bick Kwang,,Male,Chinese,,China,Married,Friend,,,,324,,,,,,,,,,,Laborer,Laundry,Wage or salary worker in private work,,,,,,,,,21,abt 1919,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",E Streetate Street,"?? Ping, Canton, China","?? Ping, Canton, China",3B,No,"High School, 4th year",48,,,No,,,,,52,820,No,,,,,,,,,,
 54,Ya-chao Chi,,Female,Chinese,,China,Single,Lodger,,,,949,,,,,,,,,,,,,,,,,,,,,,23,abt 1917,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",East State Street,China,China,3A,Yes,"College, 5th or subsequent year",,,,No,Alien,,,,,,,,,,,,,,,,
-55,"Peny Cheny Hsu
-[Peng Cheng Hsu]",,Male,Chinese,,China,Married,Head,,,,409,,,,,,,,,,,,,,,,,,,,,,28,abt 1912,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",Eddy Street,"Peiping, China","Peiping, China",1A,Yes,"College, 4th year",,Yes,No,No,Having first papers,2,Rented,24,0,0,No,,,,,,,,,,
+55,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 56,Chen-chi Lin,,Male,Chinese,,China,Married,Partner,,,,409,,,,,,,,,,,,,,,,,,,,,,37,abt 1903,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",Eddy Street,"Cebu, Philippines","Cebu, Philippines",1A,Yes,"College, 4th year",,Yes,,No,Having first papers,,,,0,0,No,,,,,,,,,,
 57,"Kusay Halting Lin
 [Kung Hsing Lin]",,Male,Chinese,,China,Married,Partner,,,,409,,,,,,,,,,,,,,,,,,,,,,39,abt 1901,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",Eddy Street,"Foochow, China","Foochow, China",1A,Yes,"College, 5th or subsequent year",,Yes,,No,Alien,,,,0,0,No,,,,,,,,,,
@@ -89,7 +86,7 @@ ID,Name:,Birth Year:,Gender:,Race:,Age in 1930:,Birthplace:,Marital Status:,Rela
 [Chien Tsing Kwan]",,Male,Chinese,,China,Single,Lodger,,,,226,,,,,,,,,,,,,,,,,,,,,,25,abt 1915,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",Bryant Avenue,China,China,9A,Yes,"College, 5th or subsequent year",,,,No,Alien,,,,0,0,No,,,,,,,,,,
 61,Yum Tai Tsau,,Male,Chinese,,China,Single,Lodger,,,,301,,,,,,,,,,,,,,,,,,,,,,22,abt 1918,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",Bryant Avenue,China,China,10A,Yes,"College, 3rd year",,Yes,,No,Alien,,,,0,0,No,,,,,,,,,,
 62,Chi Cheng Chang,,Male,Chinese,,China,Single,Lodger,,,,301,,,,,,,,,,,,,,,,,,,,,,22,abt 1918,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",Bryant Avenue,China,China,10A,Yes,"College, 4th year",,Yes,,No,Alien,,,,0,0,No,,,,,,,,,,
-63,Carl Ching Te Wu,,Male,Chinese,,China,Single,Lodger,,,,301,,,,,,,,,,,,,,,,,,,,,,25,abt 1915,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",Bryant Avenue,China,China,10A,Yes,"College, 2nd year",,Yes,,No,Alien,,,,0,0,No,,,,,,,,,,
+63,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 64,Ensui Ting,,Male,Chinese,,China,Single,Lodger,,,,301,,,,,,,,,,,,,,,,,,,,,,23,abt 1917,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",Bryant Avenue,China,China,10A,Yes,"College, 2nd year",,Yes,,No,Alien,,,,0,0,No,,,,,,,,,,
 65,"Shung-hazing Lee
 [Shung-Hozang Lee]",,Male,Chinese,,China,Single,Lodger,,,,301,,,,,,,,,,,,,,,,,,,,,,23,abt 1917,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",Bryant Avenue,China,China,10A,Yes,"College, 3rd year",,Yes,,No,Alien,,,,0,0,No,,,,,,,,,,
@@ -121,8 +118,7 @@ ID,Name:,Birth Year:,Gender:,Race:,Age in 1930:,Birthplace:,Marital Status:,Rela
 83,Shiyeo Hirata,abt 1907,Male,Japanese,23,Japan,Single,Lodger,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",Dryden Road,204,212c,264f,,,,,Yes,Yes,Japan,Japan,,,,,Japanese,Alien,Yes,5,1924,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 84,Tatsuzo Sakai,abt 1904,Male,Japanese,26,Japan,Single,Lodger,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",,411,212b,264b,,,,,Yes,Yes,Japan,Japan,,,,,Japanese,Alien,Yes,5,1929,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cascadilla Hall 77 - 82,,,
 85,Michiya Yasuda,abt 1898,Male,Japanese,32,Japan,Married,Lodger,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",,411,212b,264b,,,,,Yes,Yes,Japan,Japan,,,,,Japanese,Alien,Yes,5,1928,,27,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cascadilla Hall 77 - 82,,,
-86,"Bunji Tajawa
-[Buryl Tagawa]",abt 1905,Male,Japanese,25,Japan,Single,Lodger,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",Wilson ??,110,214,266,,,,,Yes,Yes,Japan,Japan,,,,,Japanese,Alien,Yes,5,1922,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Willard Straight 7 - 8, 41 - 42",,,
+86,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 87,"Jakanobu Ajiki
 [Jakanober Ajiki]",abt 1907,Male,Japanese,23,Japan,Single,Lodger,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",Dryden Road,506,11,11,,,,,Yes,Yes,Japan,Japan,,,,,Japanese,Alien,Yes,Fifth,1929,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 88,"Kama Asai
@@ -143,8 +139,7 @@ ID,Name:,Birth Year:,Gender:,Race:,Age in 1930:,Birthplace:,Marital Status:,Rela
 [Tazn Asar]",abt 1908,Female,Japanese,22,Texas,Single,Daughter,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",Slaterville Road,,259,274,,,,,Yes,Yes,Japan,Japan,,,,,,Naturalized,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 96,"Sam Asai
 [Sam Asar]",abt 1910,Male,Japanese,20,Texas,Single,Son,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",Slaterville Road,,259,274,,,,,Yes,Yes,Japan,Japan,,,,,,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-97,"Monloe Asai
-[Monloe Asar]",abt 1875,Male,Japanese,55,Japan,Married,Head,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",Slaterville Road,,259,274,Owned,15000,Yes,Yes,No,Yes,Japan,Japan,Cropretor,Fruit Store,Working on own account,Yes,Japanese,Alien,Yes,,1903,,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+97,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 98,Kame Asai,,Female,Japanese,,Japan,Married,Head,,,,,,,,,,,,,,,,,,,,,,,,,,64,abt 1876,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",Kline Road,"Ithaca, Tompkins, New York",Ithaca,20A,No,"High School, 4th year",,,No,,Alien,443,Rented,20,0,0,Yes,,,,,,,,,,
 99,Tazu Asai,,Female,Japanese,,Texas,Single,Daughter,,,,,,,,,,,,,,,Stenographer,,Wage or salary worker in Government work,,,,,,,,,33,abt 1907,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",Kline Road,"Ithaca, Tompkins, New York",Ithaca,20A,No,"College, 4th year",40,,,,,,,,50,960,No,,,,,,,,,,
 100,Kimi Gengo,abt 1903,Female,Japanese,27,Hawaii,Single,Lodger,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",?? St.,107,130,444,,,,,Yes,Yes,Japan,Japan,Secretary,Farm Bureau,Wage or salary worker,Yes,,,Yes,Fourth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,x,,,,
@@ -176,8 +171,7 @@ ID,Name:,Birth Year:,Gender:,Race:,Age in 1930:,Birthplace:,Marital Status:,Rela
 [Tazn Asar]",abt 1908,Female,Japanese,22,Texas,Single,Daughter,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",Slaterville Road,,259,274,,,,,Yes,Yes,Japan,Japan,,,,,,Naturalized,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 116,"Sam Asai
 [Sam Asar]",abt 1910,Male,Japanese,20,Texas,Single,Son,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",Slaterville Road,,259,274,,,,,Yes,Yes,Japan,Japan,,,,,,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-117,"Monloe Asai
-[Monloe Asar]",abt 1875,Male,Japanese,55,Japan,Married,Head,"Ithaca, Tompkins, New York, USA","Ithaca, Tompkins, New York",Slaterville Road,,259,274,Owned,15000,Yes,Yes,No,Yes,Japan,Japan,Cropretor,Fruit Store,Working on own account,Yes,Japanese,Alien,Yes,,1903,,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+117,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 118,Kame Asai,,Female,Japanese,,Japan,Married,Head,,,,,,,,,,,,,,,,,,,,,,,,,,64,abt 1876,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",Kline Road,"Ithaca, Tompkins, New York",Ithaca,20A,No,"High School, 4th year",,,No,,Alien,443,Rented,20,0,0,Yes,,,,,,,,,,
 119,Tazu Asai,,Female,Japanese,,Texas,Single,Daughter,,,,,,,,,,,,,,,Stenographer,,Wage or salary worker in Government work,,,,,,,,,33,abt 1907,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",Kline Road,"Ithaca, Tompkins, New York",Ithaca,20A,No,"College, 4th year",40,,,,,,,,50,960,No,,,,,,,,,,
 120,"Mariano De Geaga
@@ -215,11 +209,9 @@ ID,Name:,Birth Year:,Gender:,Race:,Age in 1930:,Birthplace:,Marital Status:,Rela
 136,"Dick Nana Badhasa Boon-long
 [Dick Nana Bedhana Boon-Long]",,Male,Thai,,Thailand,Single,Lodger,,,,210,,,,,,,,,,,,,,,,,,,,,,22,abt 1918,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",College Avenue,"Bangkok, Thailand","Bangkok, Thailand",3A,Yes,"College, 1st year",,,,,Alien,,,,0,0,No,,,,,,,,,,
 137,S Emasiri,,Male,Thai,,Thailand,Single,Head,,,,319,,,,,,,,,,,,,,,,,,,,,,26,abt 1914,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",College Avenue,"Los Banos, Philippines","Los Banos, Philippines",7A,Yes,"College, 5th or subsequent year",,Yes,No,No,American Citizen born Abroad,235,Rented,33,0,0,Yes,,,,,,,,,,
-138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-139,"Boon Yong Nikrodhanangle
-[Boon Yong Nikrodhanandi]",,Male,Thai,,Thailand,Single,Lodger,,,,301,,,,,,,,,,,,,,,,,,,,,,20,abt 1920,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",Bryant Avenue,Thailand,Thailand,10A,Yes,"High School, 4th year",,Yes,,No,Alien,,,,0,0,No,,,,,,,,,,
-140,"Sala Dasanande
-[Sala Dasananda]",,Male,Thai,,Thailand,Single,Lodger,,,,301,,,,,,,,,Thailand,Thailand,,,,,,,,,,,,27,abt 1913,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",Bryant Avenue,Thailand,Thailand,10A,Yes,"College, 5th or subsequent year",,Yes,,No,Alien,,,,0,0,No,Thai,No,No,None,,,,,,
+138,Boon T Vaidyanuvatti,,Male,Thai,,Thailand,Single,Partner,,,,319,,,,,,,,,,,,,,,,,,,,,,25,abt 1915,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",College Avenue,"Bangkok, Philippines","Bangkok, Philippines",7A,Yes,"College, 1st year",,,,No,American Citizen born Abroad,,,,0,0,Yes,,,,,,,,,,
+139,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+140,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 141,Mon Chao Chakrabandhu,,Male,Thai,,Thailand,Single,Lodger,,,,304,,,,,,,,,,,,,,,,,,,,,,30,abt 1910,"Ithaca, Tompkins, New York","Ithaca, Tompkins, New York",Elmwood Avenue,Thailand,Thailand,11B,Yes,"College, 4th year",,,,No,Alien,,,,0,0,No,,,,,,,,,,
 142,"Banchard Balankura
 [Bancherd Balankura]",,Male,"Thai

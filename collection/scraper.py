@@ -30,4 +30,4 @@ for race in races:
     people += scrape_people(driver)
 
 df = DataFrame(people)
-df.to_csv('people.csv')
+df.to_csv('output/people.csv')
