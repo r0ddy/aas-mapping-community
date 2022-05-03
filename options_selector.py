@@ -14,6 +14,10 @@ def submit_search_options(driver, race):
     residence_textbox_xpath = '/html/body/div[3]/div/div/div/section[1]/div/div/div/div/div/form/div[1]/div/fieldset[2]/div[3]/div/input[1]'
     fill_out_textbox(driver, residence_textbox_xpath, 'Ithaca, Tompkins, New York, USA')
 
+    # check off to get exact results on residence
+    residence_exact_match_xpath = '/html/body/div[3]/div/div/div/section[1]/div/div/div/div/div/form/div[1]/div/fieldset[2]/div[7]/div/div/button[1]'
+    click_elem(driver, residence_exact_match_xpath)
+
     # fill out race box
     race_textbox_xpath = '/html/body/div[3]/div/div/div/section[1]/div/div/div/div/div/form/div[1]/div/div[5]/div[2]/input'
     fill_out_textbox(driver, race_textbox_xpath, race)
