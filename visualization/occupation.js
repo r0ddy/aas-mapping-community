@@ -18,7 +18,7 @@ d3.csv("https://raw.githubusercontent.com/r0ddy/aas-mapping-community/main/outpu
 // X axis
 var x = d3.scaleBand()
   .range([ 0, width ])
-  .domain(data.map(function(d) { return d["Occupation"]; }))
+  .domain(data.map(function(d) { return d[""]; }))
   .padding(0.2);
 svg.append("g")
   .attr("transform", "translate(0," + height + ")")
@@ -34,14 +34,15 @@ var y = d3.scaleLinear()
 svg.append("g")
   .call(d3.axisLeft(y));
 
+console.log(data);
 // Bars
 svg.selectAll("mybar")
   .data(data)
   .enter()
   .append("rect")
-    .attr("x", function(d) { return x(d["Occupation"]); })
+    .attr("x", function(d) { console.log(d); return x(d[""]); })
     .attr("y", function(d) { return y(d["Count"]); })
     .attr("width", x.bandwidth())
-    .attr("height", function(d) { return height - y(d["Count"]); })
+    .attr("height", function(d) { return height - y(d["Occupation"]); })
     .attr("fill", "#69b3a2")
 })
