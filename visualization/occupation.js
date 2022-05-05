@@ -4,7 +4,7 @@ var margin = {top: 30, right: 30, bottom: 70, left: 60},
     height = 400 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
-var svg = d3.select("#birthplace_plot_chart")
+var svg = d3.select("#occup_plot_chart")
   .append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
@@ -29,7 +29,7 @@ svg.append("g")
 
 // Add Y axis
 var y = d3.scaleLinear()
-  .domain([0, 45])
+  .domain([0, 4])
   .range([ height, 0]);
 svg.append("g")
   .call(d3.axisLeft(y));
