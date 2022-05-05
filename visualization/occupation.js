@@ -13,12 +13,12 @@ var svg = d3.select("#birthplace_plot_chart")
           "translate(" + margin.left + "," + margin.top + ")");
 
 // Parse the Data
-d3.csv("https://raw.githubusercontent.com/r0ddy/aas-mapping-community/main/output/birthplace.csv", function(data) {
+d3.csv("https://raw.githubusercontent.com/r0ddy/aas-mapping-community/main/output/occup.csv", function(data) {
 
 // X axis
 var x = d3.scaleBand()
   .range([ 0, width ])
-  .domain(data.map(function(d) { return d["Birthplace"]; }))
+  .domain(data.map(function(d) { return d["Occupation"]; }))
   .padding(0.2);
 svg.append("g")
   .attr("transform", "translate(0," + height + ")")
@@ -39,7 +39,7 @@ svg.selectAll("mybar")
   .data(data)
   .enter()
   .append("rect")
-    .attr("x", function(d) { return x(d["Birthplace"]); })
+    .attr("x", function(d) { return x(d["Occupation"]); })
     .attr("y", function(d) { return y(d["Count"]); })
     .attr("width", x.bandwidth())
     .attr("height", function(d) { return height - y(d["Count"]); })
