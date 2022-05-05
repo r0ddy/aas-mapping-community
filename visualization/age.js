@@ -13,26 +13,26 @@ var svg = d3.select("#age_density_chart")
           "translate(" + margin.left + "," + margin.top + ")");
 
 // get the data
-d3.csv("https://raw.githubusercontent.com/holtzy/data_to_viz/master/Example_dataset/1_OneNum.csv", function(data) {
+d3.csv("https://raw.githubusercontent.com/r0ddy/aas-mapping-community/main/output/years.csv", function(data) {
 
   // add the x Axis
   var x = d3.scaleLinear()
-            .domain([0, 1000])
+            .domain([1880, 1920])
             .range([0, width]);
   svg.append("g")
       .attr("transform", "translate(0," + height + ")")
-      .call(d3.axisBottom(x));
+      .call(d3.axisBottom(x).tickFormat(d3.format("d")));
 
   // add the y Axis
   var y = d3.scaleLinear()
             .range([height, 0])
-            .domain([0, 0.01]);
+            .domain([0, .1]);
   svg.append("g")
       .call(d3.axisLeft(y));
 
   // Compute kernel density estimation
   var kde = kernelDensityEstimator(kernelEpanechnikov(7), x.ticks(40))
-  var density =  kde( data.map(function(d){  return d.price; }) )
+  var density =  kde( data.map(function(d){  return d['Birth Year:']; }) )
 
   // Plot the area
   svg.append("path")
