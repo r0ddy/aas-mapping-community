@@ -18,7 +18,7 @@ d3.csv("https://raw.githubusercontent.com/r0ddy/aas-mapping-community/main/outpu
 // X axis
 var x = d3.scaleBand()
   .range([ 0, width ])
-  .domain(data.map(function(d) { return d[""]; }))
+  .domain(data.map(function(d) { return d["Occupation"]; }))
   .padding(0.2);
 svg.append("g")
   .attr("transform", "translate(0," + height + ")")
@@ -40,9 +40,14 @@ svg.selectAll("mybar")
   .data(data)
   .enter()
   .append("rect")
-    .attr("x", function(d) { console.log(d); return x(d[""]); })
+    .attr("x", function(d) { console.log(d); return x(d["Occupation"]); })
     .attr("y", function(d) { return y(d["Count"]); })
     .attr("width", x.bandwidth())
-    .attr("height", function(d) { return height - y(d["Occupation"]); })
-    .attr("fill", "#69b3a2")
+    .attr("height", function(d) { return height - y(d["Count"]); })
+    .attr("fill", random_hex_color_code())
 })
+
+const random_hex_color_code = () => {
+  let n = (Math.random() * 0xfffff * 1000000).toString(16);
+  return '#' + n.slice(0, 6);
+};

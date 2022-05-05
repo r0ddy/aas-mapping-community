@@ -43,5 +43,10 @@ svg.selectAll("mybar")
     .attr("y", function(d) { return y(d["Count"]); })
     .attr("width", x.bandwidth())
     .attr("height", function(d) { return height - y(d["Count"]); })
-    .attr("fill", "#69b3a2")
+    .attr("fill", random_hex_color_code())
 })
+
+const random_hex_color_code = () => {
+  let n = (Math.random() * 0xfffff * 1000000).toString(16);
+  return '#' + n.slice(0, 6);
+};
